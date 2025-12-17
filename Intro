@@ -20,4 +20,4 @@ Workflow: Draft, Reflect, Revise
 
 Before interacting with the language models, we initialize the aisuite client. 
 This setup loads environment variables (e.g., API keys) from a .env file to securely authenticate with backend services. 
-The ai.Client() instance will be used to make all model calls throughout this workflow.
+The ai.Client() instance will be used to make all model calls throughout this workflow..
