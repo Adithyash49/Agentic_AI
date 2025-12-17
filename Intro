@@ -1,1 +1,15 @@
 
+Introduction
+
+Agentic_AI
+
+An agentic AI workflow is a process where an LLM based app executes multiple steps to complete a task.
+
+Degrees of autonomy: Low, semi, high
+
+Benefits of AI: Better performance, parallelism, Modular
+
+Task decomposition into smaller parts
+
+Agentic Design pattern: Reflection, Tool, planning, multi-agent collaboration
+
