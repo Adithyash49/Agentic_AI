@@ -27,4 +27,7 @@ Tool use: Tools are just codes or functions that an LLM can request to be execut
 
 Take a look at how to write code to have your LLM get tools called.
 
-LLM does not call a tool, it will request that you call a tool.
+LLM does not call a tool, it will request that you call a tool. Example. Code execution tool
+Create a set of tools with aisuite to give to an LLM. You will see how the LLM requests tools to be used and also the LLM choosing certain tools when relevant to its task.
+
+
