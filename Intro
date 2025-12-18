@@ -21,3 +21,10 @@ Workflow: Draft, Reflect, Revise
 Before interacting with the language models, we initialize the aisuite client. 
 This setup loads environment variables (e.g., API keys) from a .env file to securely authenticate with backend services. 
 The ai.Client() instance will be used to make all model calls throughout this workflow..
+
+
+Tool use: Tools are just codes or functions that an LLM can request to be executed.
+
+Take a look at how to write code to have your LLM get tools called.
+
+LLM does not call a tool, it will request that you call a tool.
